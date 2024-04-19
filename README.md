@@ -1,2 +1,2 @@
 # Resurgence
-IOS reborn!
+IOS reborn! A clean and modern Theme for IOS.
